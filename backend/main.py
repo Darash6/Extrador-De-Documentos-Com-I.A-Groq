@@ -13,7 +13,7 @@ import re
 # ─────────────────────────────────────────
 #  Config
 # ─────────────────────────────────────────
-GROQ_API_KEY = os.getenv("GROQ_API_KEY", "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")
+GROQ_API_KEY = os.getenv("GROQ_API_KEY", "sua-chave-aqui")
 MONGO_URI    = os.getenv("MONGO_URI", "mongodb://localhost:27017")
 
 groq_client  = Groq(api_key=GROQ_API_KEY)
