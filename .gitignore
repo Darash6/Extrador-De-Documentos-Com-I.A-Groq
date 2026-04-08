@@ -1,12 +1,5 @@
-# backend
 backend/venv/
 backend/__pycache__/
 backend/.env
-
-# frontend
 frontend/node_modules/
 frontend/build/
-
-# geral
-*.log
-.DS_Store
