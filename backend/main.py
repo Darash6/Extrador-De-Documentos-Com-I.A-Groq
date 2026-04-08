@@ -31,7 +31,7 @@ app.add_middleware(
 )
 
 # ─────────────────────────────────────────
-#  Helpers
+#  prompts e funções auxiliares
 # ─────────────────────────────────────────
 EXTRACT_PROMPT = """
 Você é um extrator de documentos. Analise a imagem ou texto fornecido e retorne
